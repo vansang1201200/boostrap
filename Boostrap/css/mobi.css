@@ -1,0 +1,159 @@
+/* 
+.content {
+    max-width: 2040px;
+    width: auto;
+    box-sizing: border-box;
+    margin: auto;
+  }
+  
+  .content-top {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 3rem;
+  }
+  
+  .top-left {
+    width: 200px;
+    height: 400px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  
+  .top-right {
+    flex-grow: 1;
+    padding-left: 1rem;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .bb {
+    align-self: center;
+    max-width: 700px;
+   
+  }
+  
+  .aa {
+    text-align: center;
+  }
+  
+  .ex2 {
+    margin-bottom: 2rem;
+  }
+  
+  .connet {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .image__wrapper {
+    width: 200px;
+    height: 400px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  
+  .image__wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .content__container {
+    padding: 0 2.5rem;
+  }
+  
+  .ex4 {
+    padding: 0;
+  }
+  
+  .content-middle {
+    position: relative;
+    margin-bottom: 2rem;
+  }
+  
+  .content-middle a img {
+    height: 400px;
+    overflow: hidden;
+    transform: translateX(100px);
+    width: 70%;
+    object-fit: cover;
+  }
+  
+  .content-middle h4 {
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+    font-size: 42px;
+  }
+  
+  .content-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .content-bottom > div {
+    flex-grow: 1;
+  }
+  
+  .content-bottom > div:first-child {
+    padding-right: 3.5rem;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .content-top {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  
+    .top-right {
+      flex-direction: column;
+      margin-right: 1rem;
+    }
+  
+    .top-left {
+      width: 100%;
+      height: 300px;
+    }
+  
+    .top-left img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  
+    .content__container {
+      padding: 0 1.5rem;
+    }
+  
+    .content-middle a img {
+      height: 300px;
+      transform: none;
+      width: 100%;
+    }
+  
+    .content-middle h4 {
+      color: white;
+    }
+  
+    .content-bottom {
+      flex-direction: column;
+    }
+  
+    .content-bottom > div {
+      width: 100%;
+      padding: 0 !important;
+    }
+  
+    .content-bottom p,
+    h3 {
+      padding: 0 1rem;
+    }
+  
+    .ex2 {
+        padding: 0;
+    }
+  }
+   */
+  
